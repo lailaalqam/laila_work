@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Menuo Food-->
+<breakfast_Menu>
+  <Food id="501">
+    <name>waffles</name>
+    <Description>waffles with coffe</Description>
+    <price> 20$</price>
+    <Calories>50</Calories>
+  </Food>
+  <Food id="502">
+    <name>wa</name>
+    <Description> coffe</Description>
+    <price> 90$</price>
+    <Calories>90</Calories>
+  </Food>
+  <Food id="503">
+    <name>fles</name>
+    <Description>waffles with tea</Description>
+    <price> 270$</price>
+    <Calories>500</Calories>
+  </Food>
+  <Food id="509">
+    <name>water</name>
+    <Description> cola</Description>
+    <price> 99999999990$</price>
+    <Calories>44440</Calories>
+  </Food>
+</breakfast_Menu>

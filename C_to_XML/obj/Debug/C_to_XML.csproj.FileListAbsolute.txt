@@ -1,0 +1,6 @@
+c:\users\alaa\documents\visual studio 2015\Projects\C_to_XML\C_to_XML\bin\Debug\C_to_XML.exe.config
+c:\users\alaa\documents\visual studio 2015\Projects\C_to_XML\C_to_XML\obj\Debug\C_to_XML.csprojResolveAssemblyReference.cache
+c:\users\alaa\documents\visual studio 2015\Projects\C_to_XML\C_to_XML\bin\Debug\C_to_XML.exe
+c:\users\alaa\documents\visual studio 2015\Projects\C_to_XML\C_to_XML\bin\Debug\C_to_XML.pdb
+c:\users\alaa\documents\visual studio 2015\Projects\C_to_XML\C_to_XML\obj\Debug\C_to_XML.exe
+c:\users\alaa\documents\visual studio 2015\Projects\C_to_XML\C_to_XML\obj\Debug\C_to_XML.pdb
